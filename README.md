@@ -1,6 +1,6 @@
 # Business Portfolio Website
 
-A responsive portfolio website project built to present a professional profile, services, and work in a clean web interface.
+A responsive portfolio website project built for another person to present a professional profile, services, and work through a clean web interface.
 
 ## 🛠️ Built With
 
@@ -17,11 +17,15 @@ A responsive portfolio website project built to present a professional profile, 
 - Clear navigation and call-to-action areas
 - Front-end implementation focused on usability
 
-## 🎯 Project Purpose
+## 🎯 What This Project Demonstrates
 
-This project demonstrates practical front-end development skills, including page structure, responsive styling, visual hierarchy, and turning a portfolio concept into a usable website.
+- Building a website for another person's requirements
+- Responsive front-end development
+- Page structure and visual hierarchy
+- Practical UI implementation
+- Turning a portfolio concept into a usable website
 
-## 👨‍💻 Author
+## 👨‍💻 Developer
 
 **Mohd Kamran Siddiquee**  
 Mumbai, India
